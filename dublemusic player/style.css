@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+     
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1506026667107-3350a4c8eca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHNvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60');
+    /* background-color: #063970; */
+    background-size: 100% 100%;
+
+}
+
+img{
+    width: 103px;
+    text-align: center;
+    margin-left: 560px;
+    margin-top: 11px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px){
+    img{
+        margin-left: 100px;
+        margin-top: 11px;
+        height: 52px;
+        width: 168px;
+
+    }
+}
+
+
+  
+h1{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2.8rem;
+    color: #fff;
+
+}
+
+main{
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    transition: 2s else;
+    
+}
+
+div{
+    width: 328px;
+    height: 50%;
+    box-shadow: 2px 2px 2px 5px rgb(60, 43, 43);
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 20px;
+    color: #fff;
+    margin-left: 10px;
+    margin-top: 20px;
+    transition: 2s else;
+}
+
+.img1:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+ .img2:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img3:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img4:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img5:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img6:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img7:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img8:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img9:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img10:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img11:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img12:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img13:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img14:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img15:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+  .img16:hover{
+    filter: none(1);
+      transform: scale(1.03);
+  }
+
+
+
+
+.img1{
+    background-image: url('/image/image1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+  
+}
+
+.img2{
+    background-image: url('/image/image2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img3{
+    background-image: url('/image/image3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img4{
+    background-image: url('/image/image4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img5{
+    background-image: url('/image/image5.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img6{
+    background-image: url('/image/image6.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img7{
+    background-image: url('/image/image7.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img8{
+    background-image: url('/image/image8.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img9{
+    background-image: url('https://images.unsplash.com/photo-1513180978247-f4bb79c6460a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHNvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img10{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/958/762/desktop-wallpaper-arijit-singh.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img11{
+    background-image: url('https://images.unsplash.com/photo-1586095087956-bc66fe634955?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c29uZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img12{
+    background-image: url('https://images.unsplash.com/photo-1528728935509-22fb14722a30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c29uZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img13{
+    background-image: url('https://images.unsplash.com/photo-1588032786045-59cefda005c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c29uZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img14{
+    background-image: url('https://images.unsplash.com/photo-1580973946162-429ef3340c33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTV8fHNvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img15{
+    background-image: url('https://images.unsplash.com/photo-1553406624-52e5fb326413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fHNvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+
+}
+
+.img16{
+    background-image: url('https://images.unsplash.com/photo-1511138743687-5c14e8cfcf47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fHNvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: 100ms;
+}
+
